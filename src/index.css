@@ -5,6 +5,10 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: url("https://www.godigit.com/content/dam/godigit/directportal/en/contenthm/waterfalls-near-bhubaneswar.jpg");
+  background-repeat: no-repeat;
+  background-size: 2000px 900px;
+  /* background-position: center; */
 }
 
 code {
